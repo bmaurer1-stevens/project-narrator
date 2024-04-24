@@ -3,10 +3,12 @@ Final Project for EE 608: Optimizing Audiobook Production from Text
 
 
 1. Problem Description
+   
 Automating the production of audiobooks from text involves using advanced text-to-speech (TTS) technology to convert written content into spoken audio. The goal is to mimic human narrators as closely as possible, enhancing the listener's experience by making synthetic narration sound natural and engaging.
 
 
-2. Optimization Model
+3. Optimization Model
+   
 The optimization model would involve:
 
 * Text Analysis: Parsing and understanding the text to identify emotional cues, sentence structures, and context to determine the appropriate tone and inflection.
@@ -15,6 +17,7 @@ The optimization model would involve:
 
   
 3. Data Sources
+   
 Several publicly available datasets can be utilized for training and testing the TTS models:
 
 * LibriSpeech: A corpus of read English speech designed for research in automatic speech recognition and understanding, derived from audiobooks.
@@ -31,6 +34,7 @@ Several publicly available datasets can be utilized for training and testing the
 
 
 5. Performance Metrics
+   
 Besides manual examination by human listeners, several automated metrics can be used to evaluate performance:
 * Mean Opinion Score (MOS): Traditionally used in telecommunications to assess the quality of voice coding and transmission. In this context, it measures the naturalness and clarity of the synthesized speech.
 * Perceptual Evaluation of Speech Quality (PESQ): An ITU standard for automated assessment of voice quality, originally designed for telephone networks and VoIP systems.
